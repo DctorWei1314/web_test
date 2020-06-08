@@ -1,0 +1,21 @@
+body{
+    background-image: url(../imgs/mm.jpeg);
+    /*background-color: #c2c2c2;*/
+    background-size:100%,100%;
+}
+h {font-family:Georgia;
+    font-weight: bolder;
+    font-size: 30px;
+    position: relative;
+    left: 600px;
+    background-color: white;
+}
+.detail{
+    font-family:Arial;
+    background-color: orange;
+}
+ul{
+    position: relative;
+    left: 600px;
+}
+
